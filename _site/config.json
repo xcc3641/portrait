@@ -1,0 +1,134 @@
+{
+  "Sky in August": [
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Sky in August/sky-01.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-01.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-01.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Sky in August/sky-02.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-02.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-02.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/Sky in August/sky-03.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-03.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-03.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/Sky in August/sky-04.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-04.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-04.jpg"
+    },
+    {
+      "height": 3889,
+      "compressed_path": "./photos/Sky in August/sky-05.min.jpg",
+      "width": 5833,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-05.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-05.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Sky in August/sky-06.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-06.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-06.jpg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/Sky in August/sky-07.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky in August/sky-07.placeholder.jpg",
+      "path": "./photos/Sky in August/sky-07.jpg"
+    }
+  ],
+  "Street photography in August 2019": [
+    {
+      "height": 3243,
+      "compressed_path": "./photos/Street photography in August 2019/street-1.min.jpg",
+      "width": 4864,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-1.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Street photography in August 2019/street-2.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-2.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-2.jpg"
+    },
+    {
+      "height": 3897,
+      "compressed_path": "./photos/Street photography in August 2019/street-3.min.jpg",
+      "width": 5845,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-3.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-3.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/Street photography in August 2019/street-4.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-4.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-4.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/Street photography in August 2019/street-5.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-5.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-5.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/Street photography in August 2019/street-6.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-6.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-6.jpg"
+    },
+    {
+      "height": 6000,
+      "compressed_path": "./photos/Street photography in August 2019/street-7.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-7.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-7.jpg"
+    },
+    {
+      "height": 5089,
+      "compressed_path": "./photos/Street photography in August 2019/street-8.min.jpg",
+      "width": 3393,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-8.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-8.jpg"
+    },
+    {
+      "height": 5994,
+      "compressed_path": "./photos/Street photography in August 2019/street-9.min.jpg",
+      "width": 3996,
+      "compressed": true,
+      "placeholder_path": "./photos/Street photography in August 2019/street-9.placeholder.jpg",
+      "path": "./photos/Street photography in August 2019/street-9.jpg"
+    }
+  ]
+}

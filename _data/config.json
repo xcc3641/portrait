@@ -1,0 +1,36 @@
+{
+  "About me": [
+    {
+      "height": 3797,
+      "compressed_path": "./photos/About me/me-1.min.jpg",
+      "width": 5696,
+      "compressed": true,
+      "placeholder_path": "./photos/About me/me-1.placeholder.jpg",
+      "path": "./photos/About me/me-1.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/About me/me-2.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/About me/me-2.placeholder.jpg",
+      "path": "./photos/About me/me-2.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/About me/me-3.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/About me/me-3.placeholder.jpg",
+      "path": "./photos/About me/me-3.jpg"
+    },
+    {
+      "height": 1887,
+      "compressed_path": "./photos/About me/me-4.min.jpg",
+      "width": 5913,
+      "compressed": true,
+      "placeholder_path": "./photos/About me/me-4.placeholder.jpg",
+      "path": "./photos/About me/me-4.jpg"
+    }
+  ]
+}
