@@ -1,4 +1,236 @@
 {
+  "The container in July 2019": [
+    {
+      "height": 3266,
+      "compressed_path": "./photos/The container in July 2019/c-01.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-01.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-01.jpg"
+    },
+    {
+      "height": 3266,
+      "compressed_path": "./photos/The container in July 2019/c-02.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-02.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-02.jpg"
+    },
+    {
+      "height": 3266,
+      "compressed_path": "./photos/The container in July 2019/c-03.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-03.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-03.jpg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/The container in July 2019/c-04.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-04.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-04.jpg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/The container in July 2019/c-05.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-05.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-05.jpg"
+    },
+    {
+      "height": 4899,
+      "compressed_path": "./photos/The container in July 2019/c-06.min.jpg",
+      "width": 3266,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-06.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-06.jpg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/The container in July 2019/c-07.min.jpg",
+      "width": 3266,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-07.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-07.jpg"
+    },
+    {
+      "height": 3266,
+      "compressed_path": "./photos/The container in July 2019/c-08.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/The container in July 2019/c-08.placeholder.jpg",
+      "path": "./photos/The container in July 2019/c-08.jpg"
+    }
+  ],
+  "With the warden in April 2019": [
+    {
+      "height": 3125,
+      "compressed_path": "./photos/With the warden in April 2019/warden-01.min.jpg",
+      "width": 4167,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-01.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-01.jpg"
+    },
+    {
+      "height": 2323,
+      "compressed_path": "./photos/With the warden in April 2019/warden-02.min.jpg",
+      "width": 3483,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-02.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-02.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-03.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-03.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-03.jpg"
+    },
+    {
+      "height": 2398,
+      "compressed_path": "./photos/With the warden in April 2019/warden-04.min.jpg",
+      "width": 3597,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-04.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-04.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-05.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-05.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-05.jpg"
+    },
+    {
+      "height": 3240,
+      "compressed_path": "./photos/With the warden in April 2019/warden-06.min.jpg",
+      "width": 1620,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-06.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-06.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-07.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-07.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-07.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-08.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-08.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-08.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-09.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-09.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-09.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-10.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-10.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-10.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/With the warden in April 2019/warden-11.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-11.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-11.jpg"
+    },
+    {
+      "height": 1802,
+      "compressed_path": "./photos/With the warden in April 2019/warden-12.min.jpg",
+      "width": 2703,
+      "compressed": true,
+      "placeholder_path": "./photos/With the warden in April 2019/warden-12.placeholder.jpg",
+      "path": "./photos/With the warden in April 2019/warden-12.jpg"
+    }
+  ],
+  "Hongqiao Airport  in June 2019": [
+    {
+      "height": 4725,
+      "compressed_path": "./photos/Hongqiao Airport  in June 2019/h-01.min.jpg",
+      "width": 3150,
+      "compressed": true,
+      "placeholder_path": "./photos/Hongqiao Airport  in June 2019/h-01.placeholder.jpg",
+      "path": "./photos/Hongqiao Airport  in June 2019/h-01.jpg"
+    },
+    {
+      "height": 4373,
+      "compressed_path": "./photos/Hongqiao Airport  in June 2019/h-02.min.jpg",
+      "width": 2915,
+      "compressed": true,
+      "placeholder_path": "./photos/Hongqiao Airport  in June 2019/h-02.placeholder.jpg",
+      "path": "./photos/Hongqiao Airport  in June 2019/h-02.jpg"
+    },
+    {
+      "height": 4084,
+      "compressed_path": "./photos/Hongqiao Airport  in June 2019/h-03.min.jpg",
+      "width": 2723,
+      "compressed": true,
+      "placeholder_path": "./photos/Hongqiao Airport  in June 2019/h-03.placeholder.jpg",
+      "path": "./photos/Hongqiao Airport  in June 2019/h-03.jpg"
+    },
+    {
+      "height": 4899,
+      "compressed_path": "./photos/Hongqiao Airport  in June 2019/h-04.min.jpg",
+      "width": 3266,
+      "compressed": true,
+      "placeholder_path": "./photos/Hongqiao Airport  in June 2019/h-04.placeholder.jpg",
+      "path": "./photos/Hongqiao Airport  in June 2019/h-04.jpg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/Hongqiao Airport  in June 2019/h-05.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/Hongqiao Airport  in June 2019/h-05.placeholder.jpg",
+      "path": "./photos/Hongqiao Airport  in June 2019/h-05.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/Hongqiao Airport  in June 2019/h-06.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/Hongqiao Airport  in June 2019/h-06.placeholder.jpg",
+      "path": "./photos/Hongqiao Airport  in June 2019/h-06.jpg"
+    }
+  ],
+  "Others in 2019": [
+    {
+      "height": 4898,
+      "compressed_path": "./photos/Others in 2019/o-01.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/Others in 2019/o-01.placeholder.jpg",
+      "path": "./photos/Others in 2019/o-01.jpg"
+    },
+    {
+      "height": 2897,
+      "compressed_path": "./photos/Others in 2019/o-02.min.jpg",
+      "width": 1933,
+      "compressed": true,
+      "placeholder_path": "./photos/Others in 2019/o-02.placeholder.jpg",
+      "path": "./photos/Others in 2019/o-02.jpg"
+    }
+  ],
   "About me": [
     {
       "height": 3797,
