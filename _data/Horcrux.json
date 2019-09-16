@@ -17,11 +17,11 @@
         ],
         "items": {
           "order": [
-            "April",
-            "June",
             "July",
-            "About me",
-            "Others"
+            "June",
+            "April",
+            "Others",
+            "About me"
           ],
           "dict": {
             "April": {
