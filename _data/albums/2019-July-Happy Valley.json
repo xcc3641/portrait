@@ -1,0 +1,54 @@
+{
+  "order": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
+  ],
+  "dict": {
+    "01.jpg": {
+      "type": "photo",
+      "width": 3924,
+      "height": 5886,
+      "path": "./photos/2019/July/Happy Valley/01.jpg",
+      "min_path": "./photos/2019/July/Happy Valley/01.min.jpg"
+    },
+    "02.jpg": {
+      "type": "photo",
+      "width": 3783,
+      "height": 5675,
+      "path": "./photos/2019/July/Happy Valley/02.jpg",
+      "min_path": "./photos/2019/July/Happy Valley/02.min.jpg"
+    },
+    "03.jpg": {
+      "type": "photo",
+      "width": 3699,
+      "height": 5548,
+      "path": "./photos/2019/July/Happy Valley/03.jpg",
+      "min_path": "./photos/2019/July/Happy Valley/03.min.jpg"
+    },
+    "04.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/2019/July/Happy Valley/04.jpg",
+      "min_path": "./photos/2019/July/Happy Valley/04.min.jpg"
+    },
+    "05.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/2019/July/Happy Valley/05.jpg",
+      "min_path": "./photos/2019/July/Happy Valley/05.min.jpg"
+    },
+    "06.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/July/Happy Valley/06.jpg",
+      "min_path": "./photos/2019/July/Happy Valley/06.min.jpg"
+    }
+  }
+}

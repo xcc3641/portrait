@@ -1,0 +1,54 @@
+{
+  "order": [
+    "h-01.jpg",
+    "h-02.jpg",
+    "h-03.jpg",
+    "h-04.jpg",
+    "h-05.jpg",
+    "h-06.jpg"
+  ],
+  "dict": {
+    "h-01.jpg": {
+      "type": "photo",
+      "width": 3150,
+      "height": 4725,
+      "path": "./photos/2019/June/Hongqiao Airport/h-01.jpg",
+      "min_path": "./photos/2019/June/Hongqiao Airport/h-01.min.jpg"
+    },
+    "h-02.jpg": {
+      "type": "photo",
+      "width": 2915,
+      "height": 4373,
+      "path": "./photos/2019/June/Hongqiao Airport/h-02.jpg",
+      "min_path": "./photos/2019/June/Hongqiao Airport/h-02.min.jpg"
+    },
+    "h-03.jpg": {
+      "type": "photo",
+      "width": 2723,
+      "height": 4084,
+      "path": "./photos/2019/June/Hongqiao Airport/h-03.jpg",
+      "min_path": "./photos/2019/June/Hongqiao Airport/h-03.min.jpg"
+    },
+    "h-04.jpg": {
+      "type": "photo",
+      "width": 3266,
+      "height": 4899,
+      "path": "./photos/2019/June/Hongqiao Airport/h-04.jpg",
+      "min_path": "./photos/2019/June/Hongqiao Airport/h-04.min.jpg"
+    },
+    "h-05.jpg": {
+      "type": "photo",
+      "width": 3265,
+      "height": 4898,
+      "path": "./photos/2019/June/Hongqiao Airport/h-05.jpg",
+      "min_path": "./photos/2019/June/Hongqiao Airport/h-05.min.jpg"
+    },
+    "h-06.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/June/Hongqiao Airport/h-06.jpg",
+      "min_path": "./photos/2019/June/Hongqiao Airport/h-06.min.jpg"
+    }
+  }
+}

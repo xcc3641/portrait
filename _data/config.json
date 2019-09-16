@@ -1,326 +1,339 @@
-{
-  "The container, July 2019": [
-    {
-      "height": 3266,
-      "compressed_path": "./photos/The container, July 2019/c-01.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-01.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-01.jpg"
-    },
-    {
-      "height": 3266,
-      "compressed_path": "./photos/The container, July 2019/c-02.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-02.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-02.jpg"
-    },
-    {
-      "height": 3266,
-      "compressed_path": "./photos/The container, July 2019/c-03.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-03.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-03.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/The container, July 2019/c-04.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-04.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-04.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/The container, July 2019/c-05.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-05.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-05.jpg"
-    },
-    {
-      "height": 4899,
-      "compressed_path": "./photos/The container, July 2019/c-06.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-06.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-06.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/The container, July 2019/c-07.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-07.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-07.jpg"
-    },
-    {
-      "height": 3266,
-      "compressed_path": "./photos/The container, July 2019/c-08.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/The container, July 2019/c-08.placeholder.jpg",
-      "path": "./photos/The container, July 2019/c-08.jpg"
-    }
-  ],
-  "Happy Valley ShangHai, July 2019": [
-    {
-      "height": 5886,
-      "compressed_path": "./photos/Happy Valley ShangHai, July 2019/01.min.jpg",
-      "width": 3924,
-      "compressed": true,
-      "placeholder_path": "./photos/Happy Valley ShangHai, July 2019/01.placeholder.jpg",
-      "path": "./photos/Happy Valley ShangHai, July 2019/01.jpg"
-    },
-    {
-      "height": 5675,
-      "compressed_path": "./photos/Happy Valley ShangHai, July 2019/02.min.jpg",
-      "width": 3783,
-      "compressed": true,
-      "placeholder_path": "./photos/Happy Valley ShangHai, July 2019/02.placeholder.jpg",
-      "path": "./photos/Happy Valley ShangHai, July 2019/02.jpg"
-    },
-    {
-      "height": 5548,
-      "compressed_path": "./photos/Happy Valley ShangHai, July 2019/03.min.jpg",
-      "width": 3699,
-      "compressed": true,
-      "placeholder_path": "./photos/Happy Valley ShangHai, July 2019/03.placeholder.jpg",
-      "path": "./photos/Happy Valley ShangHai, July 2019/03.jpg"
-    },
-    {
-      "height": 6000,
-      "compressed_path": "./photos/Happy Valley ShangHai, July 2019/04.min.jpg",
-      "width": 4000,
-      "compressed": true,
-      "placeholder_path": "./photos/Happy Valley ShangHai, July 2019/04.placeholder.jpg",
-      "path": "./photos/Happy Valley ShangHai, July 2019/04.jpg"
-    },
-    {
-      "height": 6000,
-      "compressed_path": "./photos/Happy Valley ShangHai, July 2019/05.min.jpg",
-      "width": 4000,
-      "compressed": true,
-      "placeholder_path": "./photos/Happy Valley ShangHai, July 2019/05.placeholder.jpg",
-      "path": "./photos/Happy Valley ShangHai, July 2019/05.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/Happy Valley ShangHai, July 2019/06.min.jpg",
-      "width": 6000,
-      "compressed": true,
-      "placeholder_path": "./photos/Happy Valley ShangHai, July 2019/06.placeholder.jpg",
-      "path": "./photos/Happy Valley ShangHai, July 2019/06.jpg"
-    }
-  ],
-  "With the warden, April 2019": [
-    {
-      "height": 3125,
-      "compressed_path": "./photos/With the warden, April 2019/warden-01.min.jpg",
-      "width": 4167,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-01.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-01.jpg"
-    },
-    {
-      "height": 2323,
-      "compressed_path": "./photos/With the warden, April 2019/warden-02.min.jpg",
-      "width": 3483,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-02.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-02.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-03.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-03.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-03.jpg"
-    },
-    {
-      "height": 2398,
-      "compressed_path": "./photos/With the warden, April 2019/warden-04.min.jpg",
-      "width": 3597,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-04.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-04.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-05.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-05.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-05.jpg"
-    },
-    {
-      "height": 3240,
-      "compressed_path": "./photos/With the warden, April 2019/warden-06.min.jpg",
-      "width": 1620,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-06.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-06.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-07.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-07.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-07.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-08.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-08.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-08.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-09.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-09.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-09.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-10.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-10.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-10.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/With the warden, April 2019/warden-11.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-11.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-11.jpg"
-    },
-    {
-      "height": 1802,
-      "compressed_path": "./photos/With the warden, April 2019/warden-12.min.jpg",
-      "width": 2703,
-      "compressed": true,
-      "placeholder_path": "./photos/With the warden, April 2019/warden-12.placeholder.jpg",
-      "path": "./photos/With the warden, April 2019/warden-12.jpg"
-    }
-  ],  
-  "Hongqiao Airport, June 2019": [
-    {
-      "height": 4725,
-      "compressed_path": "./photos/Hongqiao Airport, June 2019/h-01.min.jpg",
-      "width": 3150,
-      "compressed": true,
-      "placeholder_path": "./photos/Hongqiao Airport, June 2019/h-01.placeholder.jpg",
-      "path": "./photos/Hongqiao Airport, June 2019/h-01.jpg"
-    },
-    {
-      "height": 4373,
-      "compressed_path": "./photos/Hongqiao Airport, June 2019/h-02.min.jpg",
-      "width": 2915,
-      "compressed": true,
-      "placeholder_path": "./photos/Hongqiao Airport, June 2019/h-02.placeholder.jpg",
-      "path": "./photos/Hongqiao Airport, June 2019/h-02.jpg"
-    },
-    {
-      "height": 4084,
-      "compressed_path": "./photos/Hongqiao Airport, June 2019/h-03.min.jpg",
-      "width": 2723,
-      "compressed": true,
-      "placeholder_path": "./photos/Hongqiao Airport, June 2019/h-03.placeholder.jpg",
-      "path": "./photos/Hongqiao Airport, June 2019/h-03.jpg"
-    },
-    {
-      "height": 4899,
-      "compressed_path": "./photos/Hongqiao Airport, June 2019/h-04.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/Hongqiao Airport, June 2019/h-04.placeholder.jpg",
-      "path": "./photos/Hongqiao Airport, June 2019/h-04.jpg"
-    },
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Hongqiao Airport, June 2019/h-05.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Hongqiao Airport, June 2019/h-05.placeholder.jpg",
-      "path": "./photos/Hongqiao Airport, June 2019/h-05.jpg"
-    },
-    {
-      "height": 3265,
-      "compressed_path": "./photos/Hongqiao Airport, June 2019/h-06.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/Hongqiao Airport, June 2019/h-06.placeholder.jpg",
-      "path": "./photos/Hongqiao Airport, June 2019/h-06.jpg"
-    }
-  ],
-  "Others in 2019": [
-    {
-      "height": 4898,
-      "compressed_path": "./photos/Others in 2019/o-01.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Others in 2019/o-01.placeholder.jpg",
-      "path": "./photos/Others in 2019/o-01.jpg"
-    },
-    {
-      "height": 2897,
-      "compressed_path": "./photos/Others in 2019/o-02.min.jpg",
-      "width": 1933,
-      "compressed": true,
-      "placeholder_path": "./photos/Others in 2019/o-02.placeholder.jpg",
-      "path": "./photos/Others in 2019/o-02.jpg"
-    },
-    {
-      "height": 5686,
-      "compressed_path": "./photos/Others in 2019/o-03.min.jpg",
-      "width": 3791,
-      "compressed": true,
-      "placeholder_path": "./photos/Others in 2019/o-03.placeholder.jpg",
-      "path": "./photos/Others in 2019/o-03.jpg"
-    }
-  ],
-  "About me": [
-    {
-      "height": 3797,
-      "compressed_path": "./photos/About me/me-1.min.jpg",
-      "width": 5696,
-      "compressed": true,
-      "placeholder_path": "./photos/About me/me-1.placeholder.jpg",
-      "path": "./photos/About me/me-1.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/About me/me-2.min.jpg",
-      "width": 6000,
-      "compressed": true,
-      "placeholder_path": "./photos/About me/me-2.placeholder.jpg",
-      "path": "./photos/About me/me-2.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/About me/me-3.min.jpg",
-      "width": 6000,
-      "compressed": true,
-      "placeholder_path": "./photos/About me/me-3.placeholder.jpg",
-      "path": "./photos/About me/me-3.jpg"
-    },
-    {
-      "height": 1887,
-      "compressed_path": "./photos/About me/me-4.min.jpg",
-      "width": 5913,
-      "compressed": true,
-      "placeholder_path": "./photos/About me/me-4.placeholder.jpg",
-      "path": "./photos/About me/me-4.jpg"
-    }
-  ]
-}
+[
+  {
+    "name": "With the warden",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "April",
+      "With the warden"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4167,
+        "height": 3125,
+        "path": "./photos/2019/April/With the warden/warden-01.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3483,
+        "height": 2323,
+        "path": "./photos/2019/April/With the warden/warden-02.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-03.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3597,
+        "height": 2398,
+        "path": "./photos/2019/April/With the warden/warden-04.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-05.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1620,
+        "height": 3240,
+        "path": "./photos/2019/April/With the warden/warden-06.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-07.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-07.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-08.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-08.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-09.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-09.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-10.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/April/With the warden/warden-11.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2703,
+        "height": 1802,
+        "path": "./photos/2019/April/With the warden/warden-12.jpg",
+        "min_path": "./photos/2019/April/With the warden/warden-12.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hongqiao Airport",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "June",
+      "Hongqiao Airport"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3150,
+        "height": 4725,
+        "path": "./photos/2019/June/Hongqiao Airport/h-01.jpg",
+        "min_path": "./photos/2019/June/Hongqiao Airport/h-01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2915,
+        "height": 4373,
+        "path": "./photos/2019/June/Hongqiao Airport/h-02.jpg",
+        "min_path": "./photos/2019/June/Hongqiao Airport/h-02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2723,
+        "height": 4084,
+        "path": "./photos/2019/June/Hongqiao Airport/h-03.jpg",
+        "min_path": "./photos/2019/June/Hongqiao Airport/h-03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3266,
+        "height": 4899,
+        "path": "./photos/2019/June/Hongqiao Airport/h-04.jpg",
+        "min_path": "./photos/2019/June/Hongqiao Airport/h-04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3265,
+        "height": 4898,
+        "path": "./photos/2019/June/Hongqiao Airport/h-05.jpg",
+        "min_path": "./photos/2019/June/Hongqiao Airport/h-05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/June/Hongqiao Airport/h-06.jpg",
+        "min_path": "./photos/2019/June/Hongqiao Airport/h-06.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "The Container Tour",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "July",
+      "The Container Tour"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3266,
+        "path": "./photos/2019/July/The Container Tour/c-01.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3266,
+        "path": "./photos/2019/July/The Container Tour/c-02.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3266,
+        "path": "./photos/2019/July/The Container Tour/c-03.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3265,
+        "height": 4898,
+        "path": "./photos/2019/July/The Container Tour/c-04.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3265,
+        "height": 4898,
+        "path": "./photos/2019/July/The Container Tour/c-05.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3266,
+        "height": 4899,
+        "path": "./photos/2019/July/The Container Tour/c-06.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3266,
+        "height": 4898,
+        "path": "./photos/2019/July/The Container Tour/c-07.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-07.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3266,
+        "path": "./photos/2019/July/The Container Tour/c-08.jpg",
+        "min_path": "./photos/2019/July/The Container Tour/c-08.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Happy Valley",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "July",
+      "Happy Valley"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3924,
+        "height": 5886,
+        "path": "./photos/2019/July/Happy Valley/01.jpg",
+        "min_path": "./photos/2019/July/Happy Valley/01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3783,
+        "height": 5675,
+        "path": "./photos/2019/July/Happy Valley/02.jpg",
+        "min_path": "./photos/2019/July/Happy Valley/02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3699,
+        "height": 5548,
+        "path": "./photos/2019/July/Happy Valley/03.jpg",
+        "min_path": "./photos/2019/July/Happy Valley/03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 6000,
+        "path": "./photos/2019/July/Happy Valley/04.jpg",
+        "min_path": "./photos/2019/July/Happy Valley/04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 6000,
+        "path": "./photos/2019/July/Happy Valley/05.jpg",
+        "min_path": "./photos/2019/July/Happy Valley/05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2019/July/Happy Valley/06.jpg",
+        "min_path": "./photos/2019/July/Happy Valley/06.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "About me",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "About me"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 5696,
+        "height": 3797,
+        "path": "./photos/2019/About me/me-1.jpg",
+        "min_path": "./photos/2019/About me/me-1.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2019/About me/me-2.jpg",
+        "min_path": "./photos/2019/About me/me-2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2019/About me/me-3.jpg",
+        "min_path": "./photos/2019/About me/me-3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 5913,
+        "height": 1887,
+        "path": "./photos/2019/About me/me-4.jpg",
+        "min_path": "./photos/2019/About me/me-4.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Others",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "Others"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3265,
+        "height": 4898,
+        "path": "./photos/2019/Others/o-01.jpg",
+        "min_path": "./photos/2019/Others/o-01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1933,
+        "height": 2897,
+        "path": "./photos/2019/Others/o-02.jpg",
+        "min_path": "./photos/2019/Others/o-02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3791,
+        "height": 5686,
+        "path": "./photos/2019/Others/o-03.jpg",
+        "min_path": "./photos/2019/Others/o-03.min.jpg"
+      }
+    ]
+  }
+]

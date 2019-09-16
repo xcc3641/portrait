@@ -1,0 +1,151 @@
+{
+  "name": "Horcrux",
+  "type": "album",
+  "root": 0,
+  "parents": [],
+  "items": {
+    "order": [
+      "2019"
+    ],
+    "dict": {
+      "2019": {
+        "name": "2019",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2019"
+        ],
+        "items": {
+          "order": [
+            "April",
+            "June",
+            "July",
+            "About me",
+            "Others"
+          ],
+          "dict": {
+            "April": {
+              "name": "April",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "April"
+              ],
+              "items": {
+                "order": [
+                  "With the warden"
+                ],
+                "dict": {
+                  "With the warden": {
+                    "name": "With the warden",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "April",
+                      "With the warden"
+                    ],
+                    "path": "./_data/albums/2019-April-With the warden.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "June": {
+              "name": "June",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "June"
+              ],
+              "items": {
+                "order": [
+                  "Hongqiao Airport"
+                ],
+                "dict": {
+                  "Hongqiao Airport": {
+                    "name": "Hongqiao Airport",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "June",
+                      "Hongqiao Airport"
+                    ],
+                    "path": "./_data/albums/2019-June-Hongqiao Airport.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "July": {
+              "name": "July",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "July"
+              ],
+              "items": {
+                "order": [
+                  "The Container Tour",
+                  "Happy Valley"
+                ],
+                "dict": {
+                  "The Container Tour": {
+                    "name": "The Container Tour",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "July",
+                      "The Container Tour"
+                    ],
+                    "path": "./_data/albums/2019-July-The Container Tour.json",
+                    "no_sub_album": true
+                  },
+                  "Happy Valley": {
+                    "name": "Happy Valley",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "July",
+                      "Happy Valley"
+                    ],
+                    "path": "./_data/albums/2019-July-Happy Valley.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "About me": {
+              "name": "About me",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "About me"
+              ],
+              "path": "./_data/albums/2019-About me.json",
+              "no_sub_album": true
+            },
+            "Others": {
+              "name": "Others",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "Others"
+              ],
+              "path": "./_data/albums/2019-Others.json",
+              "no_sub_album": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

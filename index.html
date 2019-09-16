@@ -3,7 +3,10 @@
 <!DOCTYPE HTML>
 <html>
   <head>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="favicon.ico">
+    <title>{{ site.name }}</title>
     <style>
       :root {
         --column: {{ site.column }};
@@ -17,8 +20,6 @@
       }
     </style>
     <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl }}">
-    <link rel="shortcut icon" type="image/png" href="favicon.ico">
-    <title>Portrait</title>
     <SCRIPT TYPE="text/javascript"> 
       //Disable right click script 
       //visit http://www.rainbow.arch.scriptmania.com/scripts/ 
@@ -31,32 +32,14 @@
       if (document.layers) {document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} 
       else {document.onmouseup=clickNS;document.oncontextmenu=clickIE;} 
       document.oncontextmenu=new Function("return false") 
-    </SCRIPT>
+    </SCRIPT> 
   </head>
   <body>
     {%- include header.html -%}
     <div class="gallary">
       <h1>{{ site.name }}</h1>
-      {%- for section in site.data.config -%}
-      {%- assign name = section[0] -%}
-      {%- assign photos = section[1] -%}
-        <section class="section">
-          <h2 href="#{{ name }}">{{ name }}</h2>
-          <div class="photos" itemscope>
-            {%- for photo in photos -%}
-              <!-- {{photo}} -->
-              <figure class="photo-figure" itemscope>
-                <a class="photo-a" itemprop="{{ photo.path }}" 
-                  href="{{ photo.path }}"
-                  msrc="{{ photo.compressed_path }}"
-                  data-size="{{ photo.width }}x{{ photo.height }}">
-                  <img class="photo-img" itemprop="thumbnail" src="{{ photo.compressed_path }}"/>
-                </a>
-              </figure>
-            {%- endfor -%}
-          </ul>
-        </section>
-      {%- endfor -%}
+      {%- assign albums = site.data.config -%}
+      {%- include album.html -%}
     </div>
     {%- include footer.html -%}
     {%- include swipe.html -%}

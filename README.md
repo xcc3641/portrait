@@ -1,89 +1,200 @@
-# Gallery
-A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
+# Horcrux
+Generate your own online photograph gallery easily.
 
-![demo](http://g.recordit.co/myz4N5iMzg.gif)
+![demo](https://raw.githubusercontent.com/soyaine/horcrux/gh-pages/assets/imxie-demo.png)
 
-*Gallery is a side project of mine to allow me to create a more curated version of my photography and mockup portfolio. It's intended to have a simple setup process that is accessible by anyone. If you have any feedback for Gallery, [drop me a line](mailto:andzhng@gmail.com?Subject=Hey!) :)*
+## Features
+- Simple but beautiful UI.
+- Auto-watermark your photos.
+- Auto-generate thumbnails for better load speed.
+- Sort photos by time, modify as you like, and keep it when you add new photos.
+- Keep the order when you put new photos in.
+- Support multi-level albums.
+- Based on Jekyll and GitHub Pages.
 
+## Demo
+Here is a live demo: [https://soyaine.github.io/horcrux/](https://soyaine.github.io/horcrux/)
 
-## Dependencies
-🔥 NONE 🔥
-
-## Making your own gallery in less than 5 minutes
-- Fork this repository🍴
-- Clone the repository through terminal by running
-`git clone git@github.com:{YOUR_USERNAME}/gallery.git`
-- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder. 
-**Example**:
+## Quick Start
+Fork this repo, or clone to your local.
+``` bash
+$ git clone git@github.com:soyaine/horcrux.git
 ```
-/photos
-  /mockups
-    IMG_0123.jpg
-    IMG_0124.jpg
-  /portrait
-    IMG_1234.jpg
-    IMG_1235.jpg
+Make sure you have installed Python3, check current python version.
+``` bash
+$ python3 -V
+```
+- If your command `python` rather than `python3` point to Python3, please change the code in two command file, modify `python3 -m venv venv` to `python -m venv venv`.
+  ```bash
+  # setup.command / config.command
+  python -m venv venv 
+  ```
+- If version < 3 or error, install Python3, and then recheck.
+  ```
+  $ brew install python3
+  $ python3 -V
+  ```
+- If the check passes, next step.
+
+Change the config in file `_config.yml`, **especially the name**, which will shown as the site header and the watermark text in your photos.
+
+``` yml
+name: Horcrux
+instagram: your_ins_account_id
 ```
 
-- Open the folder in finder and **double click** `setup.command`. This will go through all of your albums and create a `config.json` file for you. This file allows the generator to know which photos will be hosted on your website.✨
-- Personalize the contents at the bottom of `_config.yml`.
-- Commit all of your changes and then push all of your changes to Github by running
+Remove all resources under `./photos/`, then create folder in it, the folder name will shown as headline of a group of photos. Copy some photos into it. 
+```bash
+photos
+├── 2019
+│    ├── Duo
+│    │   ├── 07.jpg
+│    │   ├── 08.jpg
+│    │   ├── 09.jpg
+│    └── Hey
+│        ├── 02.jpg
+│        └── 1.jpg
+└── Mey
+    ├── 02.jpg
+    └── 1.jpg
 ```
-$ git checkout -B gh-pages  # This creates a branch that will be hosted at {username}.github.io/gallery
-$ git commit -am "Create my first gallery"  # This saves all of your changes
-$ git push origin gh-pages  # This pushes your gallery to be hosted!
+
+> **⚠️NOTE** 
+> 
+> Please always keep your own original photo files in other place, because the watermark will change the original one. 
+> 
+> When you first try this, just put several photos in, to see wheather you like the watermark effect or not.
+
+Double click the `setup.command`, the process is doing:
+- Generate thumbnails with the suffix of `.min.jpg`
+- Watermark original photos with `name` value set in `_config.yml`
+- Traverse all folders and files, generate a file `_data/config.json`
+
+Run and greet your gallery in locally by [Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
 ```
-- Check out your site at {username}.github.io/gallery 🎉✨!
+$ jekyll serve --watch
+```
 
-*Important notes:* To ⏭speed⏭ up the loading time of your gallery, please make sure to compress your images. If you're running this on a macOS system, this is done automatically for you using `sips`!
-If you want Google Analytics, replace `_includes/ga.html` with your own snippet.
+Git push to the remote branch `gh-pages`, then it will be online. 🎉
+```
+$ git add .
+$ git commit -m "init gallery"
+$ git push -u origin gh-pages
+```
+
+## Make It Yours
+If you have run successfully locally, here are more details you can reform it. The following is the default settings of Horcrux, almost all config are set in `_config.yml`:
+
+### Headline and Instagram Link
+
+```yml
+name: Horcrux # Headline of the page, watermark text
+
+instagram: ins_id
+```
+
+- The value of `name` is both the website headline and the watermark text.
+- There is a text link to your Instagram page at the bottom of the page, just set it blank if you don't want.
+
+### Albums and photos process
+
+```yml
+# How to process the photos and albums to config
+process:
+  keep_order: True
+  nested_album:
+    separator: ' · '
+  album:
+    sort_by_time: True # False: sort by filename
+    order_by: create # other two value can be: access, modify
+    reverse: True
+  photo:
+    sort_by_time: False
+    order_by: modify
+    reverse: True
+    min_width: 600
+    watermark:
+      thumbnail: False
+      original: True
+      fontsize: 40
+      fontfamily: Eczar-Medium.ttf
+      rotate: 0
+```
+
+**`sort_by_time`, `order_by`, `reverse`:**
+
+- Sort the albums (folder under `photos`) by create time, from new to old.
+- Sort the photos by name.
+
+**`keep_order`:**
+- When you change the `order` value in JSON under `_data`, and add new photos or new albums, then double click `setup.command`, a new `config.json` file will be generated, all old order set manually will be retained.
+- If you just modify `order` without new photo added, you can just double click `config.command`, which will read all JSON files (Horcrux.json and others under albums folder), and regenerate the `config.json` file.
+
+**`separator`:**
+- If you created nested folders under the `photos` folder, Horcrux can handle it too.
+- The album which path in `./photos/2019/duo/`, its displayed title in page will be: **DUO** · 2019, spliced by `separator` ` · `.
 
 
+**`watermark`:**
+- Watermark the original photos.
+- The text of the watermark is the value of `name`.
+- The position is in the middle of the bottom of the photo.
 
-## How It Works
-There are two important pieces to gallery:
+### Gallery Style
 
-### Album Generation
-`setup.command` goes through all of the folders in your `/photos/` directory. It collects all of the file paths of each photo in each album. It aggregates all of this data into one key file called `config.json`.
+```yml
+frame_padding: 10px # the white gap between photo and outer border
 
-### Client-side Generation
-Once you've created your `config.json`, the website can now use that file to figure out which photos to show. It uses JavaScript(ES6🔥!) to layout your photos, grouping all of the photos per album.
+# Widescreen
+column: 3 
+column_gap: 30px
+row_gap: 30px
 
-## Customizing your Gallery
-Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout you want to use by setting the `layout` variable in `script.js` to be either `SQUARES`, `ROWS` or `COLUMNS`.
+# Smallscreen
+small_screen:
+  column: 2
+  column_gap: 10px
+  row_gap: 10px
+```
 
-Each different layout has both its own and shared set of configuration options.
+**`column`:**
+- In wide screen, photos divided into 3 columns.
+- In small screen, photos divided into 2 columns.
 
-### Shared
-- `spacing` (Integer): The vertical and horizontal distance that separates each photo from all adjacent photos. *Defaulted to 10*.
-- `shuffle` (Boolean): Toggle to shuffle or not to shuffle the photos. *Default is `false`*.
+**`frame_padding`, `column_gap`, `row_gap`:**
+- Each photo has a white square frame background. The white gap between photo and frame outer border is 10px.
+- In wide screen, the spacing between columns is 30px, the same for rows.
+- In small screen, the spacing between columns is 10px, the same for rows.
 
-### Column Configuration
-- `columns` (Integer): The number of columns for the layout. *Default is `3`*.
+### Color Palette
 
-### Square Configuration
-- `columns` (Integer): The number of columns for the layout. *Default is `3`*.
-- `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
+Most of the color palette is defined in `./sass/base.scss`, you can change them to your color.
 
-Columns takes priority if both are set.
+```scss
+$background: #fafafa;
+$surface: #fff;
 
-### Row Configuration
-- `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
+$title: #5f5f5f;
+$subtitle: #868686;
+$text: #C8C8C8;
+$link: #98A3AA;
+```
 
-### Instagram
-- `instagram` (String): Your Instagram handle. If no string is passed, no footer
-  is rendered.
+- `$background`: whole page's background color
+- `$surface`: the color of photo square frame
 
+## Acknowledgments
+The idea of generating album JSON for using Jekyll and GitHub Pages is inspired by AndyZhang's [gallery](https://github.com/andyzg/gallery).
 
-## Fun Facts
-- No Bootstrap is used. AT ALL! 🔥🔥🔥
-- It uses ES6. NEW TECH! 🔥🔥🔥
-- It has no local dependencies. SAY WHAT! 🔥🔥🔥
+Special thanks to my friend [Hugo <img src="https://avatars2.githubusercontent.com/u/11666634?s=460&v=4" width="20" height="20">](https://github.com/xcc3641), the photographs both in the mockup above and in the live demo were taken by him. In the beginning, I just wanted to write a tool for him to share photography. Later I found it can be open-sourced. So there is Horcrux, he named it.
 
-🔥🔥🔥
+## Author
+© [Soyaine](https://github.com/soyaine)
 
----
+## Support
+If you have any question about Horcrux, feel free to start an [issue](https://github.com/soyaine/horcrux/issues/new). 
 
-If you enjoyed using Gallery, I'd love to see what you created with Gallery 🙌
+You can also reach out to me by email [soyaine1@gmail.com](mailto:soyaine1@gmail.com)
 
-Share your gallery with me on this [thread](https://github.com/andyzg/gallery/issues/1)❤️!
+## License
+MIT

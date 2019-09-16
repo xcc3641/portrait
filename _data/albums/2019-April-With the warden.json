@@ -1,0 +1,102 @@
+{
+  "order": [
+    "warden-01.jpg",
+    "warden-02.jpg",
+    "warden-03.jpg",
+    "warden-04.jpg",
+    "warden-05.jpg",
+    "warden-06.jpg",
+    "warden-07.jpg",
+    "warden-08.jpg",
+    "warden-09.jpg",
+    "warden-10.jpg",
+    "warden-11.jpg",
+    "warden-12.jpg"
+  ],
+  "dict": {
+    "warden-01.jpg": {
+      "type": "photo",
+      "width": 4167,
+      "height": 3125,
+      "path": "./photos/2019/April/With the warden/warden-01.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-01.min.jpg"
+    },
+    "warden-02.jpg": {
+      "type": "photo",
+      "width": 3483,
+      "height": 2323,
+      "path": "./photos/2019/April/With the warden/warden-02.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-02.min.jpg"
+    },
+    "warden-03.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-03.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-03.min.jpg"
+    },
+    "warden-04.jpg": {
+      "type": "photo",
+      "width": 3597,
+      "height": 2398,
+      "path": "./photos/2019/April/With the warden/warden-04.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-04.min.jpg"
+    },
+    "warden-05.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-05.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-05.min.jpg"
+    },
+    "warden-06.jpg": {
+      "type": "photo",
+      "width": 1620,
+      "height": 3240,
+      "path": "./photos/2019/April/With the warden/warden-06.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-06.min.jpg"
+    },
+    "warden-07.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-07.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-07.min.jpg"
+    },
+    "warden-08.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-08.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-08.min.jpg"
+    },
+    "warden-09.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-09.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-09.min.jpg"
+    },
+    "warden-10.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-10.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-10.min.jpg"
+    },
+    "warden-11.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/April/With the warden/warden-11.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-11.min.jpg"
+    },
+    "warden-12.jpg": {
+      "type": "photo",
+      "width": 2703,
+      "height": 1802,
+      "path": "./photos/2019/April/With the warden/warden-12.jpg",
+      "min_path": "./photos/2019/April/With the warden/warden-12.min.jpg"
+    }
+  }
+}

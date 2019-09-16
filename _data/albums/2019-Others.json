@@ -1,0 +1,30 @@
+{
+  "order": [
+    "o-01.jpg",
+    "o-02.jpg",
+    "o-03.jpg"
+  ],
+  "dict": {
+    "o-01.jpg": {
+      "type": "photo",
+      "width": 3265,
+      "height": 4898,
+      "path": "./photos/2019/Others/o-01.jpg",
+      "min_path": "./photos/2019/Others/o-01.min.jpg"
+    },
+    "o-02.jpg": {
+      "type": "photo",
+      "width": 1933,
+      "height": 2897,
+      "path": "./photos/2019/Others/o-02.jpg",
+      "min_path": "./photos/2019/Others/o-02.min.jpg"
+    },
+    "o-03.jpg": {
+      "type": "photo",
+      "width": 3791,
+      "height": 5686,
+      "path": "./photos/2019/Others/o-03.jpg",
+      "min_path": "./photos/2019/Others/o-03.min.jpg"
+    }
+  }
+}

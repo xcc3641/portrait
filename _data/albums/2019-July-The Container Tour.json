@@ -1,0 +1,70 @@
+{
+  "order": [
+    "c-01.jpg",
+    "c-02.jpg",
+    "c-03.jpg",
+    "c-04.jpg",
+    "c-05.jpg",
+    "c-06.jpg",
+    "c-07.jpg",
+    "c-08.jpg"
+  ],
+  "dict": {
+    "c-01.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3266,
+      "path": "./photos/2019/July/The Container Tour/c-01.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-01.min.jpg"
+    },
+    "c-02.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3266,
+      "path": "./photos/2019/July/The Container Tour/c-02.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-02.min.jpg"
+    },
+    "c-03.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3266,
+      "path": "./photos/2019/July/The Container Tour/c-03.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-03.min.jpg"
+    },
+    "c-04.jpg": {
+      "type": "photo",
+      "width": 3265,
+      "height": 4898,
+      "path": "./photos/2019/July/The Container Tour/c-04.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-04.min.jpg"
+    },
+    "c-05.jpg": {
+      "type": "photo",
+      "width": 3265,
+      "height": 4898,
+      "path": "./photos/2019/July/The Container Tour/c-05.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-05.min.jpg"
+    },
+    "c-06.jpg": {
+      "type": "photo",
+      "width": 3266,
+      "height": 4899,
+      "path": "./photos/2019/July/The Container Tour/c-06.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-06.min.jpg"
+    },
+    "c-07.jpg": {
+      "type": "photo",
+      "width": 3266,
+      "height": 4898,
+      "path": "./photos/2019/July/The Container Tour/c-07.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-07.min.jpg"
+    },
+    "c-08.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3266,
+      "path": "./photos/2019/July/The Container Tour/c-08.jpg",
+      "min_path": "./photos/2019/July/The Container Tour/c-08.min.jpg"
+    }
+  }
+}

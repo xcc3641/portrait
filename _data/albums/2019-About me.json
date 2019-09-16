@@ -1,0 +1,38 @@
+{
+  "order": [
+    "me-1.jpg",
+    "me-2.jpg",
+    "me-3.jpg",
+    "me-4.jpg"
+  ],
+  "dict": {
+    "me-1.jpg": {
+      "type": "photo",
+      "width": 5696,
+      "height": 3797,
+      "path": "./photos/2019/About me/me-1.jpg",
+      "min_path": "./photos/2019/About me/me-1.min.jpg"
+    },
+    "me-2.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/About me/me-2.jpg",
+      "min_path": "./photos/2019/About me/me-2.min.jpg"
+    },
+    "me-3.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/About me/me-3.jpg",
+      "min_path": "./photos/2019/About me/me-3.min.jpg"
+    },
+    "me-4.jpg": {
+      "type": "photo",
+      "width": 5913,
+      "height": 1887,
+      "path": "./photos/2019/About me/me-4.jpg",
+      "min_path": "./photos/2019/About me/me-4.min.jpg"
+    }
+  }
+}
