@@ -1,0 +1,78 @@
+{
+  "order": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg"
+  ],
+  "dict": {
+    "01.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/October/Ruijin Hotel/01.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/01.min.jpg"
+    },
+    "02.jpg": {
+      "type": "photo",
+      "width": 5399,
+      "height": 3599,
+      "path": "./photos/2019/October/Ruijin Hotel/02.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/02.min.jpg"
+    },
+    "03.jpg": {
+      "type": "photo",
+      "width": 5413,
+      "height": 3609,
+      "path": "./photos/2019/October/Ruijin Hotel/03.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/03.min.jpg"
+    },
+    "04.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/October/Ruijin Hotel/04.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/04.min.jpg"
+    },
+    "05.jpg": {
+      "type": "photo",
+      "width": 3462,
+      "height": 5193,
+      "path": "./photos/2019/October/Ruijin Hotel/05.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/05.min.jpg"
+    },
+    "06.jpg": {
+      "type": "photo",
+      "width": 3417,
+      "height": 5125,
+      "path": "./photos/2019/October/Ruijin Hotel/06.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/06.min.jpg"
+    },
+    "07.jpg": {
+      "type": "photo",
+      "width": 3395,
+      "height": 5094,
+      "path": "./photos/2019/October/Ruijin Hotel/07.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/07.min.jpg"
+    },
+    "08.jpg": {
+      "type": "photo",
+      "width": 3800,
+      "height": 5700,
+      "path": "./photos/2019/October/Ruijin Hotel/08.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/08.min.jpg"
+    },
+    "09.jpg": {
+      "type": "photo",
+      "width": 3840,
+      "height": 5760,
+      "path": "./photos/2019/October/Ruijin Hotel/09.jpg",
+      "min_path": "./photos/2019/October/Ruijin Hotel/09.min.jpg"
+    }
+  }
+}

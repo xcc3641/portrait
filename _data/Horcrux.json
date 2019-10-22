@@ -17,13 +17,104 @@
         ],
         "items": {
           "order": [
+            "October",
             "July",
-            "June",
             "April",
             "Others",
             "About me"
           ],
           "dict": {
+            "October": {
+              "name": "October",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "October"
+              ],
+              "items": {
+                "order": [
+                  "Ruijin Hotel"
+                ],
+                "dict": {
+                  "Ruijin Hotel": {
+                    "name": "Ruijin Hotel",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "October",
+                      "Ruijin Hotel"
+                    ],
+                    "path": "./_data/albums/2019-October-Ruijin Hotel.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "Others": {
+              "name": "Others",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "Others"
+              ],
+              "path": "./_data/albums/2019-Others.json",
+              "no_sub_album": true
+            },
+            "About me": {
+              "name": "About me",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "About me"
+              ],
+              "path": "./_data/albums/2019-About me.json",
+              "no_sub_album": true
+            },
+            "July": {
+              "name": "July",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "July"
+              ],
+              "items": {
+                "order": [
+                  "Happy Valley",
+                  "The Container Tour"
+                ],
+                "dict": {
+                  "Happy Valley": {
+                    "name": "Happy Valley",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "July",
+                      "Happy Valley"
+                    ],
+                    "path": "./_data/albums/2019-July-Happy Valley.json",
+                    "no_sub_album": true
+                  },
+                  "The Container Tour": {
+                    "name": "The Container Tour",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "July",
+                      "The Container Tour"
+                    ],
+                    "path": "./_data/albums/2019-July-The Container Tour.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "April": {
               "name": "April",
               "type": "album",
@@ -51,97 +142,6 @@
                   }
                 }
               }
-            },
-            "June": {
-              "name": "June",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2019",
-                "June"
-              ],
-              "items": {
-                "order": [
-                  "Hongqiao Airport"
-                ],
-                "dict": {
-                  "Hongqiao Airport": {
-                    "name": "Hongqiao Airport",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "June",
-                      "Hongqiao Airport"
-                    ],
-                    "path": "./_data/albums/2019-June-Hongqiao Airport.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            },
-            "July": {
-              "name": "July",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2019",
-                "July"
-              ],
-              "items": {
-                "order": [
-                  "The Container Tour",
-                  "Happy Valley"
-                ],
-                "dict": {
-                  "The Container Tour": {
-                    "name": "The Container Tour",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "July",
-                      "The Container Tour"
-                    ],
-                    "path": "./_data/albums/2019-July-The Container Tour.json",
-                    "no_sub_album": true
-                  },
-                  "Happy Valley": {
-                    "name": "Happy Valley",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "July",
-                      "Happy Valley"
-                    ],
-                    "path": "./_data/albums/2019-July-Happy Valley.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            },
-            "About me": {
-              "name": "About me",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2019",
-                "About me"
-              ],
-              "path": "./_data/albums/2019-About me.json",
-              "no_sub_album": true
-            },
-            "Others": {
-              "name": "Others",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2019",
-                "Others"
-              ],
-              "path": "./_data/albums/2019-Others.json",
-              "no_sub_album": true
             }
           }
         }
